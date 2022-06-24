@@ -15,3 +15,11 @@ Otherwise it will print "is Palindrome" whereby the while loop condition iterate
 
 For more info on palidrome [Leetcode medium](https://medium.com/@timpark0807/leetcode-is-easy-two-pointers-90b9b0f2eb43)
 
+
+## Palindrome
+A palindrome is a word that reads the same forward and backward.
+
+In a valid palindrome, the first and last letter of the input must be the same, the second and second to last letter must be the same, the third and third to last must be the same, and so on until we’ve checked every letter in the input.
+
+- Letters are equal, input could be a palindrome.
+- Letters are not equal, input cannot be a palindrome.
