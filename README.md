@@ -12,3 +12,6 @@ Check whether characters in a string are palindrome or not using two pointer fun
 After that this is what will happen:
 - if the first character is not the last character return "is not palindrome" otherwise return is palindrome 
 Otherwise it will print "is Palindrome" whereby the while loop condition iterate by start going forword with end going backwords
+
+# For more info on palidrome [I'm an inline-style link](https://medium.com/@timpark0807/leetcode-is-easy-two-pointers-90b9b0f2eb43)
+
