@@ -1,6 +1,6 @@
-##  Two pointer function
+##  Two pointer function And Palindrome
 
-check whether charactors in a string are palindrome or not using two pointer function
+Check whether charactors in a string are palindrome or not using two pointer function
 
 **A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward.**
 
