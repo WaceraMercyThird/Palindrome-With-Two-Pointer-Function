@@ -1,4 +1,4 @@
-##  Two pointer function
+##  Two Pointer Function And Palindrome 
 
 check whether charactors in a string are palindrome or not using two pointer function
 
