@@ -10,5 +10,5 @@ Check whether characters in a string are palindrome or not using two pointer fun
 - Use a while loop to check if left is less than right or start is less than end, meaning start will not go above or beyond end.
 
 After that this is what will happen:
-- if the first character is not the last character return is not palindrome otherwise return is palindrome 
+- if the first character is not the last character return "is not palindrome" otherwise return is palindrome 
 Otherwise it will print "is Palindrome" whereby the while loop condition iterate by start going forword with end going backwords
